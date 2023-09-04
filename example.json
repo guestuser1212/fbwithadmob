@@ -1,0 +1,73 @@
+{
+  "data": {
+
+    "app_adShowStatus": "0",
+    "app_AppOpenAdStatus": "0",
+    
+    "SplshScreen": "1",
+    "ExitScreen": "1",
+    "launchScreen": "1",
+    "interstitial": "1",
+    "interstitialBack": "1",
+    "native": "1",
+    "nativeType": "1",
+    "nativeExit": "1",
+    "nativeBanner": "1",
+    "nativespacebox": "1",
+    "bannerspacebox": "1",
+
+    "nativeOrBannerBigAd": "1",
+    "nativeOrBannerSmallAd": "2",
+
+    "appzy_nativeBigOnDemandAd": "1",
+    "appzy_bannerBottomOnDemandAd": "1",
+    "appzy_load_otherAd_beforeAd": "1",
+    
+    "fb_ad_showAdStatus": "1",
+    "fb_ad_loadAdIdsType": "0",
+    "fb_Interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_Native": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_NativeBanner": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
+
+
+    "admob_ad_showAdStatus": "1",
+    "admob_ad_loadAdIdsType": "0",
+    "admob_Banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_Interstitial": "/6499/example/interstitial",
+    "admob_Native": "/6499/example/native",
+    "admob_AppOpen": "/6499/example/app-open"
+    
+    "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
+    "app_needInternet": "1",
+    "app_updateAppDialogStatus": "0",
+    "app_versionCode": "",
+    "app_redirectOtherAppStatus": "0",
+    "app_newPackageName": "",
+    "app_dialogBeforeAdShow": "0",
+    
+    "app_splashAdType": "AppOpen",
+    "app_backPressAdStatus": "0",
+    "app_howShowAd": "0",
+    "app_ad_analysis": "0",
+    "app_alernateAdShow": "",
+    "app_howShowAdNative": "0",
+    "app_howShowAdBanner": "0",
+    "app_alernateAdShowBanner": "",
+    "app_mainClickCntSwAd": "0",
+    "app_innerClickCntSwAd": "0",
+    "app_backPressAdLimit": "1",
+    
+    "nativespaceboxColor": "ffffff",
+    "nativebg": "FAEBD7",
+    "nativetitle": "000000",
+    "nativebutton": "2196f3",
+    "nativedescription": "000000",
+    "playStoreRateDialog": "0",
+    "startScreen": "0",
+    "exitScreen": "0",
+    "secondsRemaining": "10",
+    "developerDialog": "1",
+    "privacyScreen": "0",
+    "extraScreen": "0"
+  }
+}
