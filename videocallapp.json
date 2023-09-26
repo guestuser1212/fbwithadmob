@@ -25,7 +25,7 @@
     "nativeExit": "1",
     "nativeBanner": "2",
     "nativespacebox": "1",
-    "bannerspacebox": "1",
+    "bannerspacebox": "0",
     "nativespaceboxColor": "ffffff",
     "nativebg": "FAEBD7",
     "nativetitle": "000000",
