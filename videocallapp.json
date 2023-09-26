@@ -39,7 +39,10 @@
     "developerDialog": "1",
     "privacyScreen": "1",
     "countryScreen": "1",
-    "languageScreen": "1"
+    "languageScreen": "1",
+    "base": "ED1AE449A51B3FE141928044D10B2523AF4745FFD1ECF9E5AA3D1A80B919F675",
+    "token": "v4.local.Qr3GLXlwJOGsObC50FLIq-gTE1COgphrL5DVRlAhDLykNZUYbbvX1IRBiUluQULGd8KpnsQUk_wwzj3v3EIA2mAkUbZc0xIcsZoZRuj2Bc_N816fb9PSnqH1XKoYvMzEKIgDgO3xxEDUhCkzzZORN7gSXPKTxP6Vb4ex_ZjRgkOJW8kX3sE0FCalFDT7n0XlKLIUv7KOaC-J0gsRtGX1mZAWCkMRX7kGKjJw3yGWcFrsRdoW6X9VDf0aqKwBHq5f3qvmDKQc5lhgrL6Obu-zRS1vLYz-YPoFIBddY9q8xwZXZHkO93WFhYG5Kl1NlVpbaKgLm7ZHkj-_q-7smzBzTUk55kRvHQ5nmlvd-uoLsI0xFicaIuJKsUwkF9bL_Dz1Pw0yr7dlP6hmDXdel2CEZ9YIWqqAq-Wpd4QVIHgDxWoG29TFyaqyL9TPhhnOyD7IMaNGhJI",
+    "id": "bb8b7201e4cab14d11f8acd381b35c221d0d2cdcb2bf0929d36287222e590c36"
   },
   "PLACEMENT": {
     "Admob": {
