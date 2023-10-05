@@ -1,6 +1,7 @@
 {
   "APP_SETTINGS": {
-    "appReviewVersionCodeAdsOnOff": "1",
+    "app_adShowStatus": "1",
+    "appReviewVersionCodeAdsOnOff": "3",
     "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -8,7 +9,6 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
     "app_mainClickCntSwAd": "0",
@@ -46,7 +46,7 @@
      "AppID": "ca-app-pub-5492074656956038~3846057921",
      "Banner1": "ca-app-pub-5492074656956038/3803456201",
      "Interstitial1": "ca-app-pub-5492074656956038/9676969103",
-     "Native1": "/6499/example/native",
+     "Native1": "ca-app-pub-5492074656956038/4665111734",
      "AppOpen1": "ca-app-pub-5492074656956038/2225569085"
     },
     "Facebookaudiencenetwork": {
