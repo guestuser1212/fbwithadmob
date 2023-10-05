@@ -2,6 +2,7 @@
   "APP_SETTINGS": {
     "appReviewVersionCodeAdsOnOff": "1",
     "app_adShowStatus": "1",
+    "testads": "0",
     "nativeOnresume": "0",
     "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
     "app_needInternet": "1",
