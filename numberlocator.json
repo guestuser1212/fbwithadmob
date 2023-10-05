@@ -43,11 +43,11 @@
   },
   "PLACEMENT": {
     "Admob": {
-      "AppID": "ca-app-pub-5492074656956038~3846057921",
-      "Banner1": "ca-app-pub-5492074656956038/3803456201",
-      "Interstitial1": "ca-app-pub-5492074656956038/9676969103",
-      "Native1": "ca-app-pub-5492074656956038/4665111734",
-      "AppOpen1": "ca-app-pub-5492074656956038/2225569085"
+     "AppID": "ca-app-pub-5492074656956038~3846057921",
+     "Banner1": "ca-app-pub-5492074656956038/3803456201",
+     "Interstitial1": "ca-app-pub-5492074656956038/9676969103",
+     "Native1": "ca-app-pub-5492074656956038/4665111734",
+     "AppOpen1": "ca-app-pub-5492074656956038/2225569085"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
