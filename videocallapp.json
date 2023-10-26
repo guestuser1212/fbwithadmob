@@ -1,6 +1,6 @@
 {
   "APP_SETTINGS": {
-    "appReviewVersionCodeAdsOnOff": "4",
+    "appReviewVersionCodeAdsOnOff": "1",
     "app_privacyPolicyLink": "https://hajoileadskoniche.blogspot.com/2023/10/privacy-policy-simplymeet.html",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -16,7 +16,7 @@
     "ExitScreen": "1",
     "launchScreen": "1",
     "interstitial": "1",
-    "interstitialBack": "1",
+    "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
