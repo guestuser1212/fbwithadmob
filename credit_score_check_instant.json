@@ -1,9 +1,9 @@
 {
   "APP_SETTINGS": {
     "appReviewVersionCodeAdsOnOff": "1",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "loansView": "0",
-    "nativeOnresume": "0",
+    "nativeOnresume": "1",
     "app_privacyPolicyLink": "https://creditscoreprivacypolicy.blogspot.com/2023/10/privacy-policy-credit-score-check-report.html",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
