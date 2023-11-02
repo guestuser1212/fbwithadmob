@@ -1,10 +1,10 @@
 {
   "APP_SETTINGS": {
     "appReviewVersionCodeAdsOnOff": "1",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "loansView": "0",
     "nativeOnresume": "0",
-    "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
+    "app_privacyPolicyLink": "https://creditscorevalidator.blogspot.com/2023/10/privacy-policy-for-credit-score.html",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
     "app_versionCode": "",
@@ -13,7 +13,7 @@
     "app_dialogBeforeAdShow": "0",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "0",
-    "app_mainClickCntSwAd": "0",
+    "app_mainClickCntSwAd": "3",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
@@ -33,23 +33,23 @@
     "nativetitle": "000000",
     "nativebutton": "2196f3",
     "nativedescription": "000000",
-    "playStoreRateDialog": "0",
+    "playStoreRateDialog": "1",
     "ratedialog": "0",
-    "startScreen": "0",
+    "startScreen": "1",
     "exitScreen": "1",
     "secondsRemaining": "14",
     "developerDialog": "1",
-    "privacyScreen": "0",
+    "privacyScreen": "1",
     "countryScreen": "1",
     "languageScreen": "1"
   },
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/6499/example/banner",
-      "Interstitial1": "/6499/example/interstitial",
-      "Native1": "/6499/example/native",
-      "AppOpen1": "/6499/example/app-open"
+      "Banner1": "/21753324030,22941363530/com.klscreditscore.instantchec_Banner",
+      "Interstitial1": "/21753324030,22941363530/com.klscreditscore.instantchec_Interstitial",
+      "Native1": "/21753324030,22941363530/com.klscreditscore.instantchec_Native",
+      "AppOpen1": "/21753324030,22941363530/com.klscreditscore.instantchec_AppOpen"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
