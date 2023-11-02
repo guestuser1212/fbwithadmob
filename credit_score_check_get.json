@@ -39,7 +39,7 @@
     "exitScreen": "1",
     "secondsRemaining": "14",
     "developerDialog": "1",
-    "privacyScreen": "1",
+    "privacyScreen": "0",
     "countryScreen": "1",
     "languageScreen": "1"
   },
