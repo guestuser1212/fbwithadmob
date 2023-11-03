@@ -3,11 +3,11 @@
   "data": {
 
     "appzy_advShowStatus": "0",
-    "appzy_appOpenStatus": "1",
+    "appzy_appOpenStatus": "0",
     
-    "appzy_interstialStatus": "2",
-    "appzy_nativeStatus": "1",
-    "appzy_bannerStatus": "1",
+    "appzy_interstialStatus": "0",
+    "appzy_nativeStatus": "0",
+    "appzy_bannerStatus": "0",
     "appzy_nativeOrBannerBigAd": "1",
     "appzy_nativeOrBannerSmallAd": "2",
 
@@ -23,11 +23,11 @@
     "appzy_forwardClick": "0",
     "appzy_backClick": "0",
     "appzy_securityWarning": "0",
-    "appzy_splashTime": "7",
+    "appzy_splashTime": "14",
     "appzy_forceInternet": "1",
     "appzy_viewAdLoadDialog": "1",
     "appzy_playStoreRate": "1",
-    "appzy_normalRate": "1",
+    "appzy_normalRate": "0",
     "appzy_nativeSBoxColor": "ffffff",
     "appzy_nativeBgClr": "FAEBD7",
     "appzy_nativeTitleClr": "000000",
