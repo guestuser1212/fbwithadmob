@@ -24,6 +24,7 @@
     "nativeType": "1",
     "nativeExit": "1",
     "nativeBanner": "2",
+    "expandedBanner": "1",
     "nativespacebox": "1",
     "bannerspacebox": "1",
     "nativespaceboxColor": "ffffff",
