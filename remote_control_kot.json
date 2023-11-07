@@ -3,13 +3,13 @@
   "data": {
 
     "appzy_advShowStatus": "0",
-    "appzy_appOpenStatus": "1",
+    "appzy_appOpenStatus": "0",
     "appzy_appReviewVersionCodeAdsOnOff": "0",
     "appzy_collapsibleBanner": "1",
     
-    "appzy_interstialStatus": "1",
-    "appzy_nativeStatus": "1",
-    "appzy_bannerStatus": "1",
+    "appzy_interstialStatus": "0",
+    "appzy_nativeStatus": "0",
+    "appzy_bannerStatus": "0",
     "appzy_nativeOrBannerBigAd": "1",
     "appzy_nativeOrBannerSmallAd": "2",
 
@@ -35,8 +35,8 @@
     "appzy_nativeTitleClr": "000000",
     "appzy_nativeButtonClr": "2196f3",
     "appzy_nativeDescClr": "000000",
-    "appzy_nativeBox": "1",
-    "appzy_bannerBox": "1",
+    "appzy_nativeBox": "0",
+    "appzy_bannerBox": "0",
     "appzy_nativeExitAd": "1",
     "appzy_privacyScreen": "1",
     "appzy_startScreen": "0",
