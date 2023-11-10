@@ -49,10 +49,10 @@
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
   
-     "Banner1": "/22475853447,22754172291/Viyan_ai.virtualdate.randomvideocall.singlegirl.xgfcall_Banner",
-      "Interstitial1": "/22475853447,22754172291/Viyan_ai.virtualdate.randomvideocall.singlegirl.xgfcall_Interstitial",
-      "Native1": "/22475853447,22754172291/Viyan_ai.virtualdate.randomvideocall.singlegirl.xgfcall_Native",
-      "AppOpen1": "/22475853447,22754172291/Viyan_ai.virtualdate.randomvideocall.singlegirl.xgfcall_AppOpen"
+     "Banner1": "ca-app-pub-5492074656956038/4575211859",
+      "Interstitial1": "ca-app-pub-5492074656956038/7385208025",
+      "Native1": "ca-app-pub-5492074656956038/5396466790",
+      "AppOpen1": "ca-app-pub-5492074656956038/6382245406"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
