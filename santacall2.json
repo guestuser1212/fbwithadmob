@@ -1,6 +1,6 @@
 {
   "APP_SETTINGS": {
-    "appReviewVersionCodeAdsOnOff": "1",
+    "appReviewVersionCodeAdsOnOff": "0",
     "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -8,7 +8,7 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
     "app_mainClickCntSwAd": "0",
