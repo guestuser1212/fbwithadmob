@@ -1,6 +1,6 @@
 {
   "APP_SETTINGS": {
-    "appReviewVersionCodeAdsOnOff": "0",
+    "appReviewVersionCodeAdsOnOff": "2",
     "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -10,14 +10,14 @@
     "app_dialogBeforeAdShow": "0",
     "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
-    "app_backPressAdStatus": "1",
-    "app_mainClickCntSwAd": "0",
+    "app_backPressAdStatus": "0",
+    "app_mainClickCntSwAd": "3",
     "app_innerClickCntSwAd": "0",
     "santaVideo": "1",
     "ExitScreen": "1",
     "launchScreen": "1",
     "interstitial": "1",
-    "interstitialBack": "1",
+    "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
@@ -25,14 +25,14 @@
     "nativeType": "1",
     "nativeExit": "1",
     "nativeBanner": "2",
-    "nativespacebox": "0",
-    "bannerspacebox": "0",
+    "nativespacebox": "1",
+    "bannerspacebox": "1",
     "nativespaceboxColor": "ffffff",
     "nativebg": "FAEBD7",
     "nativetitle": "000000",
     "nativebutton": "2196f3",
     "nativedescription": "000000",
-    "playStoreRateDialog": "0",
+    "playStoreRateDialog": "1",
     "ratedialog": "0",
     "startScreen": "1",
     "exitScreen": "1",
@@ -45,10 +45,10 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/6499/example/banner",
-      "Interstitial1": "/6499/example/interstitial",
-      "Native1": "/6499/example/native",
-      "AppOpen1": "/6499/example/app-open"
+      "Banner1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_Banner",
+      "Interstitial1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_Interstitial",
+      "Native1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_Native",
+      "AppOpen1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_AppOpen"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
