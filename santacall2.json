@@ -45,10 +45,10 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_Banner",
-      "Interstitial1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_Interstitial",
-      "Native1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_Native",
-      "AppOpen1": "/21753324030,22941363530/com.santacall.santavideocall.santatracker_AppOpen"
+      "Banner1": "/229445249,22795060928/highR_RS88_SantaTrackerPrankCall_184_BANNER_4118_281123",
+      "Interstitial1": "/229445249,22795060928/highR_RS88_SantaTrackerPrankCall_184_INTERSTITIAL_4117_281123",
+      "Native1": "/229445249,22795060928/highR_RS88_SantaTrackerPrankCall_184_NATIVE_4116_281123",
+      "AppOpen1": "/229445249,22795060928/highR_RS88_SantaTrackerPrankCall_184_APP_OPEN_4115_281123"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
