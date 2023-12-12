@@ -40,7 +40,7 @@
     "developerDialog": "1",
     "privacyScreen": "1",
     "videoCallButton": "1",
-    "extraScreen": "0"
+    "extraScreen": "1"
   },
   "PLACEMENT": {
     "Admob": {
