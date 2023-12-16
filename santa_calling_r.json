@@ -1,0 +1,60 @@
+
+{
+  "APP_SETTINGS": {
+    "appReviewVersionCodeAdsOnOff": "1",
+    "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
+    "app_needInternet": "1",
+    "app_updateAppDialogStatus": "0",
+    "app_versionCode": "",
+    "app_redirectOtherAppStatus": "0",
+    "app_newPackageName": "",
+    "app_dialogBeforeAdShow": "0",
+    "app_adShowStatus": "1",
+    "app_AppOpenAdStatus": "1",
+    "app_backPressAdStatus": "1",
+    "app_mainClickCntSwAd": "0",
+    "app_innerClickCntSwAd": "0",
+    "ExitScreen": "1",
+    "launchScreen": "1",
+    "interstitial": "1",
+    "interstitialBack": "1",
+    "blankintercustomIn": "0",
+    "blankintercustomOut": "0",
+    "customAds": "0",
+    "app_nativeOnresume": "0",
+    "native": "1",
+    "nativeType": "1",
+    "nativeExit": "1",
+    "nativeBanner": "1",
+    "nativespacebox": "1",
+    "bannerspacebox": "1",
+    "nativespaceboxColor": "ffffff",
+    "nativebg": "FAEBD7",
+    "nativetitle": "000000",
+    "nativebutton": "2196f3",
+    "nativedescription": "000000",
+    "playStoreRateDialog": "0",
+    "ratedialog": "0",
+    "startScreen": "1",
+    "exitScreen": "1",
+    "secondsRemaining": "14",
+    "developerDialog": "1",
+    "privacyScreen": "1",
+    "videoCallButton": "1",
+    "extraScreen": "1"
+  },
+  "PLACEMENT": {
+    "Admob": {
+      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "Banner1": "/6499/example/banner",
+      "Interstitial1": "/6499/example/interstitial",
+      "Native1": "/6499/example/native",
+      "AppOpen1": "/6499/example/app-open"
+    },
+    "Facebookaudiencenetwork": {
+      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
+    }
+  }
+}
