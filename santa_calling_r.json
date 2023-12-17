@@ -24,7 +24,7 @@
     "app_nativeOnresume": "0",
     "native": "1",
     "nativeType": "1",
-    "nativeExit": "1",
+    "nativeExit": "0",
     "nativeBanner": "1",
     "nativespacebox": "1",
     "bannerspacebox": "1",
