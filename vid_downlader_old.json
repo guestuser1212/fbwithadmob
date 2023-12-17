@@ -39,7 +39,7 @@
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "videoCallButton": "1",
+    "videoCallButton": "0",
     "extraScreen": "1"
   },
   "PLACEMENT": {
