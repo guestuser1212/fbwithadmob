@@ -16,13 +16,13 @@
     "app_mainClickCntSwAd": "3",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
-    "launchScreen": "1",
-    "interstitial": "1",
+    "launchScreen": "2",
+    "interstitial": "2",
     "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
-    "native": "1",
+    "native": "2",
     "nativeType": "1",
     "nativeExit": "1",
     "nativeBanner": "1",
@@ -52,9 +52,9 @@
       "AppOpen1": "/21753324030,22941363530/com.klscreditscore.instantchec_AppOpen"
     },
     "Facebookaudiencenetwork": {
-      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
+      "Interstitial1": "299321149764213_299321569764171",
+      "Native1": "299321149764213_299321736430821",
+      "NativeBanner1": "299321149764213_299321796430815"
     }
   }
 }
