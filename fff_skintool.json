@@ -9,20 +9,20 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "0",
-    "app_AppOpenAdStatus": "1",
+    "app_adShowStatus": "1",
+    "app_AppOpenAdStatus": "2",
     "app_backPressAdStatus": "1",
     "app_mainClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
-    "interstitial": "1",
-    "interstitialBack": "1",
+    "interstitial": "2",
+    "interstitialBack": "2",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
     "app_nativeOnresume": "0",
-    "native": "1",
+    "native": "2",
     "nativeType": "1",
     "nativeExit": "1",
     "nativeBanner": "1",
@@ -52,9 +52,9 @@
       "AppOpen1": "/6499/example/app-open"
     },
     "Facebookaudiencenetwork": {
-      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
+      "Interstitial1": "671859938439095_671860871772335",
+      "Native1": "671859938439095_671860945105661",
+      "NativeBanner1": "671859938439095_671861105105645"
     }
   }
 }
