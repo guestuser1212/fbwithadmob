@@ -13,6 +13,7 @@
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
     "app_mainClickCntSwAd": "0",
+    "app_nativeClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
@@ -41,7 +42,7 @@
     "developerDialog": "1",
     "privacyScreen": "1",
     "videoCallButton": "1",
-    "extraScreen": "1"
+    "extraScreen_status_saver": "1"
   },
   "PLACEMENT": {
     "Admob": {
