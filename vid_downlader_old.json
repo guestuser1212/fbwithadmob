@@ -2,7 +2,7 @@
 {
   "APP_SETTINGS": {
     "appReviewVersionCodeAdsOnOff": "1",
-    "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
+    "app_privacyPolicyLink": "https://sites.google.com/view/brewprivacypolicy/home",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
     "app_versionCode": "",
@@ -13,7 +13,7 @@
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "0",
     "app_mainClickCntSwAd": "3",
-    "app_innerClickCntSwAd": "3",
+    "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
     "interstitial": "1",
@@ -34,12 +34,12 @@
     "nativedescription": "000000",
     "playStoreRateDialog": "0",
     "ratedialog": "0",
-    "startScreen": "0",
+    "startScreen": "1",
     "exitScreen": "1",
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "videoCallButton": "0",
+    "videoCallButton": "1",
     "extraScreen": "1"
   },
   "PLACEMENT": {
