@@ -9,13 +9,12 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
     "app_mainClickCntSwAd": "0",
     "app_nativeClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
-    "ExitScreen": "1",
     "launchScreen": "1",
     "interstitial": "1",
     "interstitialBack": "1",
@@ -41,8 +40,7 @@
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "videoCallButton": "1",
-    "extraScreen_status_saver": "1"
+    "extraScreen": "1"
   },
   "PLACEMENT": {
     "Admob": {
