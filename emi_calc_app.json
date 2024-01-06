@@ -1,7 +1,7 @@
 
 {
   "APP_SETTINGS": {
-    "appReviewVersionCodeAdsOnOff": "3",
+    "appReviewVersionCodeAdsOnOff": "2",
     "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -9,7 +9,7 @@
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "1",
+    "app_adShowStatus": "0",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
     "app_mainClickCntSwAd": "0",
@@ -40,7 +40,7 @@
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "extraScreen": "1"
+    "extraScreen": "0"
   },
   "PLACEMENT": {
     "Admob": {
