@@ -1,24 +1,24 @@
 
 {
   "APP_SETTINGS": {
-    "appReviewVersionCodeAdsOnOff": "1",
-    "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
+    "appReviewVersionCodeAdsOnOff": "7",
+    "app_privacyPolicyLink": "https://shivaholikinc.blogspot.com/2023/09/privacy-policy.html",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
     "app_versionCode": "",
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
-    "app_backPressAdStatus": "1",
-    "app_mainClickCntSwAd": "0",
-    "app_nativeClickCntSwAd": "0",
+    "app_backPressAdStatus": "0",
+    "app_mainClickCntSwAd": "3",
+    "app_nativeClickCntSwAd": "1",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
     "interstitial": "1",
-    "interstitialBack": "1",
+    "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
@@ -47,10 +47,10 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/6499/example/banner",
-      "Interstitial1": "/6499/example/interstitial",
-      "Native1": "/6499/example/native",
-      "AppOpen1": "/6499/example/app-open"
+      "Banner1": "/229445249,22997940267/highR_RS88_AllMovieVideoDownloader_149_BANNER_2483_031023",
+      "Interstitial1": "/229445249,22997940267/highR_RS88_AllMovieVideoDownloader_149_INTERSTITIAL_2682_101023",
+      "Native1": "/229445249,22997940267/highR_RS88_AllMovieVideoDownloader_149_NATIVE_2484_031023",
+      "AppOpen1": "/229445249,22997940267/highR_RS88_AllMovieVideoDownloader_149_APP_OPEN_2482_031023"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
