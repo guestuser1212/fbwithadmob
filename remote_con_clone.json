@@ -17,10 +17,10 @@
     "appzy_bannerBottomOnDemandAd": "0",
     "appzy_load_otherAd_beforeAd": "0",
 
-    "appzy_appOpenId": "/29636627,22941363530/com.universaltvremote.remotecontrol.androidtvremote_open_1",
-    "appzy_bannerId": "/29636627,22941363530/com.universaltvremote.remotecontrol.androidtvremote_banner_1",
-    "appzy_interstitialId": "/29636627,22941363530/com.universaltvremote.remotecontrol.androidtvremote_interstitial_1",
-    "appzy_nativeId": "ca-app-pub-3940256099942544/2247696110",
+    "appzy_appOpenId": "ca-app-pub-5190508540518942/5415612620",
+    "appzy_bannerId": "ca-app-pub-5190508540518942/9777529467",
+    "appzy_interstitialId": "ca-app-pub-5190508540518942/1320454943",
+    "appzy_nativeId": "ca-app-pub-5190508540518942/6728694290",
 
     "appzy_forwardClick": "3",
     "appzy_backClick": "0",
