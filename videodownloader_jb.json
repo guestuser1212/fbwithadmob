@@ -2,22 +2,22 @@
 {
   "APP_SETTINGS": {
     "appReviewVersionCodeAdsOnOff": "1",
-    "app_privacyPolicyLink": "https://storysaverandcallertheme.blogspot.com/",
+    "app_privacyPolicyLink": "https://sites.google.com/view/hdvideodownloaderprivacypolicy/home",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
     "app_versionCode": "",
     "app_redirectOtherAppStatus": "0",
     "app_newPackageName": "",
     "app_dialogBeforeAdShow": "0",
-    "app_adShowStatus": "0",
+    "app_adShowStatus": "1",
     "app_AppOpenAdStatus": "1",
     "app_backPressAdStatus": "1",
-    "app_mainClickCntSwAd": "0",
+    "app_mainClickCntSwAd": "4",
     "app_innerClickCntSwAd": "0",
     "ExitScreen": "1",
     "launchScreen": "1",
     "interstitial": "1",
-    "interstitialBack": "1",
+    "interstitialBack": "0",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
     "customAds": "0",
@@ -46,10 +46,10 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/6499/example/banner",
-      "Interstitial1": "/6499/example/interstitial",
-      "Native1": "/6499/example/native",
-      "AppOpen1": "/6499/example/app-open"
+      "Banner1": "/29636627,22941363530/vx.allvideodownloader.hdvideodownload.videodownloader.hdvideoplayer_banner_1",
+      "Interstitial1": "/29636627,22941363530/vx.allvideodownloader.hdvideodownload.videodownloader.hdvideoplayer_interstitial_1",
+      "Native1": "/29636627,22941363530/vx.allvideodownloader.hdvideodownload.videodownloader.hdvideoplayer_native_1",
+      "AppOpen1": "/29636627,22941363530/vx.allvideodownloader.hdvideodownload.videodownloader.hdvideoplayer_open_1"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
