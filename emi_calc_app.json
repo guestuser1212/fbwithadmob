@@ -20,7 +20,7 @@
     "interstitialBack": "1",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
-    "customAds": "0",
+    "customAds": "1",
     "nativeOnresume": "1",
     "native": "1",
     "nativeType": "1",
@@ -40,7 +40,8 @@
     "secondsRemaining": "14",
     "developerDialog": "1",
     "privacyScreen": "1",
-    "extraScreen": "0"
+    "extraScreen": "1",
+    "link": "http://277.set.qureka.com"
   },
   "PLACEMENT": {
     "Admob": {
