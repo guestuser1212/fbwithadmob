@@ -48,10 +48,10 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-     "Banner1": "/6499/example/banner",
-      "Interstitial1": "/6499/example/interstitial",
-      "Native1": "/6499/example/native",
-      "AppOpen1": "/6499/example/app-open"
+     "Banner1": "a/6499/example/banner",
+      "Interstitial1": "a/6499/example/interstitial",
+      "Native1": "a/6499/example/native",
+      "AppOpen1": "a/6499/example/app-open"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "zCAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_IDd",
