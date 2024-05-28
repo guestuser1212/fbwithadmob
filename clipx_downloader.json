@@ -1,7 +1,7 @@
 
 {
   "APP_SETTINGS": {
-    "appReviewVersionCodeAdsOnOff": "3",
+    "appReviewVersionCodeAdsOnOff": "4",
     "app_privacyPolicyLink": "https://clipxvideodownloaders.blogspot.com/2023/10/privacy-policy-for-clipx-video.html",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
@@ -41,14 +41,14 @@
     "developerDialog": "1",
     "privacyScreen": "1",
     "extraScreen": "1",
-    "link": "https://monetix101.quiztwiz.com",
+    "link": "https://sn4.h5players.com",
     "nativeImg": "https://woopinfotech.com/app_data_images/OrYeZaOSHoeV121A.png",
     "nativeSmallImg": "https://woopinfotech.com/app_data_images/VwXSnbCsHOH03cxn.png",
     "interImg": "https://woopinfotech.com/app_data_images/V3noH1g2S7geAFgW.png"
   },
   "PLACEMENT": {
     "Admob": {
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "AppID": "aca-app-pub-3940256099942544~3347511713",
       "Banner1": "a/6499/example/banner",
       "Interstitial1": "a/6499/example/interstitial",
       "Native1": "a/6499/example/native",
