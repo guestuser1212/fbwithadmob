@@ -15,12 +15,12 @@
     "app_mainClickCntSwAd": "0",
     "app_nativeClickCntSwAd": "0",
     "app_innerClickCntSwAd": "0",
-    "launchScreen": "2",
+    "launchScreen": "1",
     "interstitial": "1",
     "interstitialBack": "1",
     "blankintercustomIn": "0",
     "blankintercustomOut": "0",
-    "customAds": "1",
+    "customAds": "0",
     "nativeOnresume": "1",
     "native": "1",
     "nativeType": "1",
@@ -49,14 +49,14 @@
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
       "Banner1": "/22475853447,22795060928/OnTapSolution_com.financial.all.calculator_Bannerd",
-      "Interstitial1": "/22475853447,22795060928/OnTapSolution_com.financial.all.calculator_Interstitiald",
-      "Native1": "/22475853447,22795060928/OnTapSolution_com.financial.all.calculator_Natived",
-      "AppOpen1": "/22475853447,22795060928/OnTapSolution_com.financial.all.calculator_AppOpend"
+      "Interstitial1": "ca-app-pub-3940256099942544/1033173712",
+      "Native1": "ca-app-pub-3940256099942544/2247696110",
+      "AppOpen1": "ca-app-pub-3940256099942544/9257395921"
     },
     "Facebookaudiencenetwork": {
-      "Interstitial1": "zCAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_IDd",
-      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_IDd",
-      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_IDd"
+      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
     }
   }
 }
