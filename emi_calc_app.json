@@ -2,7 +2,7 @@
 {
   "APP_SETTINGS": {
     "appReviewVersionCodeAdsOnOff": "1",
-    "app_privacyPolicyLink": "https://tryinnostudio.blogspot.com/p/privacy-policy.html",
+    "app_privacyPolicyLink": "https://gamingtricks36.blogspot.com/2022/09/privacy-policy.html",
     "app_needInternet": "1",
     "app_updateAppDialogStatus": "0",
     "app_versionCode": "",
@@ -48,10 +48,10 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/6499/example/banner",
-      "Interstitial1": "/6499/example/interstitial",
-      "Native1": "/6499/example/native",
-      "AppOpen1": "/6499/example/app-open"
+      "Banner1": "/21952429235,22795060928/OnTapSolution_com.financehelper.financeemicalulator.expansemanager.loantool_Banner",
+      "Interstitial1": "/21952429235,22795060928/OnTapSolution_com.financehelper.financeemicalulator.expansemanager.loantool_Interstitial",
+      "Native1": "/21952429235,22795060928/OnTapSolution_com.financehelper.financeemicalulator.expansemanager.loantool_Native",
+      "AppOpen1": "/21952429235,22795060928/OnTapSolution_com.financehelper.financeemicalulator.expansemanager.loantool_AppOpen"
     },
     "Facebookaudiencenetwork": {
       "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
